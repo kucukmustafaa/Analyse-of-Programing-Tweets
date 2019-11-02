@@ -2,8 +2,8 @@
 
 In this study I analyzed the programming tweets on Twitter.Thank you to [@gadenbuie](https://github.com/gadenbuie)
   for dataset
-
-![Screenshot from 2019-11-02 22-34-30](https://user-images.githubusercontent.com/26482064/68076068-4171c000-fdc1-11e9-9214-e1183120acad.png)
+  
+![Screenshot from 2019-11-02 22-43-15](https://user-images.githubusercontent.com/26482064/68076180-6a468500-fdc2-11e9-9e64-ed918e3986df.png)
 
 
 ## Installation
