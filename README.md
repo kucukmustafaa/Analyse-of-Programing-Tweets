@@ -1,19 +1,33 @@
 # Analyse-of-Programing-Tweets
 
-In this study I analyzed the programming twits on Twitter.thanks to @gadenbuie for dataset
+In this study I analyzed the programming tweets on Twitter.Thank you to [@gadenbuie](https://github.com/gadenbuie)
+  for dataset
+
+![Screenshot from 2019-11-02 22-34-30](https://user-images.githubusercontent.com/26482064/68076068-4171c000-fdc1-11e9-9214-e1183120acad.png)
+
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install foobar
+pip3 install pandas
+
+pip3 install plotly
+
+pip3 install ipython
+
 ```
 
 ## Usage
 
+```
+git clone https://github.com/kucukmustafaa/Analyse-of-Programing-Tweets.git
+
+cd Analyse-of-Programing-Tweets/
+
+ipython notebook Untitled.ipynb
+```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome.
 
-Please make sure to update tests as appropriate.
