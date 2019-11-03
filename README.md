@@ -13,7 +13,17 @@ In this study I analyzed the programming tweets on Twitter.Thank you to [@gadenb
 
 ![2](https://user-images.githubusercontent.com/26482064/68076345-716e9280-fdc4-11e9-9de2-2d847e5704f8.png)
 
+![3](https://user-images.githubusercontent.com/26482064/68089118-c79c0e00-fe76-11e9-8431-a0802a97b0d4.png)
 
+![4](https://user-images.githubusercontent.com/26482064/68089119-c9fe6800-fe76-11e9-99c0-45168923b189.png)
+
+![5](https://user-images.githubusercontent.com/26482064/68089121-cd91ef00-fe76-11e9-8406-c31ec98a8bfb.png)
+
+![6](https://user-images.githubusercontent.com/26482064/68089124-d1257600-fe76-11e9-8558-bb0f1138f642.png)
+
+![7](https://user-images.githubusercontent.com/26482064/68089126-d5ea2a00-fe76-11e9-8f9e-96b4c15a9a88.png)
+
+![8](https://user-images.githubusercontent.com/26482064/68089130-da164780-fe76-11e9-8cdf-7b4f50ae5268.png)
 
 ## Installation
 
